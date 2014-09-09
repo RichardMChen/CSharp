@@ -1,0 +1,9 @@
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\Richard\Documents\GitHub\C#\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources

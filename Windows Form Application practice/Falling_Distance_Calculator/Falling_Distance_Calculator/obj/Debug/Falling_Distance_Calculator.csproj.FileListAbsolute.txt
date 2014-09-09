@@ -1,0 +1,9 @@
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\bin\Debug\Falling_Distance_Calculator.exe.config
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\bin\Debug\Falling_Distance_Calculator.exe
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\bin\Debug\Falling_Distance_Calculator.pdb
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\obj\Debug\Falling_Distance_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\obj\Debug\Falling_Distance_Calculator.Form1.resources
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\obj\Debug\Falling_Distance_Calculator.Properties.Resources.resources
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\obj\Debug\Falling_Distance_Calculator.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\obj\Debug\Falling_Distance_Calculator.exe
+C:\Users\Richard\Documents\GitHub\C#\Falling_Distance_Calculator\Falling_Distance_Calculator\obj\Debug\Falling_Distance_Calculator.pdb
