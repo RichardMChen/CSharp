@@ -1,0 +1,18 @@
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe.config
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.pdb
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.exe
+C:\Users\Richard\Documents\GitHub\C#\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.pdb
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe.config
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.exe
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.pdb
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.pdb
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Richard\Documents\Programs (Other)\C# Projects\Windows Form Application practice\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.GenerateResource.Cache
